@@ -26,4 +26,6 @@
             </div>
         </t>
     </template>
+
+    <hello></hello>
 </odoo>
