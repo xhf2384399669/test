@@ -3,6 +3,7 @@
     <template id="HelloWorld" name="Hello Word Template">
          <t t-call="website.layout">
              <h1>Hello World!</h1>
+             <h6>Hello Python!</h6>
          </t>
     </template>
 </odoo>
